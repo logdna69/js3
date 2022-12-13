@@ -1,0 +1,9 @@
+.input{
+    padding: 1em;
+    width: 100%;
+    align-items: center;
+}
+
+.cell{
+    width: 50%;
+}

@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+input{
+  width: 16em;
+  height: 2em;
+  padding: 0.5em;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+textarea{
+  width: 16em;
+  padding: 0.5em;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+body{
+  background-color: rgb(205, 167, 241);
+}

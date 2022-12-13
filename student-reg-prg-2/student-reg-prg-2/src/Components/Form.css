@@ -1,0 +1,13 @@
+.form{
+    width: 100%;
+}
+
+.input{
+    padding: 1em;
+    display: flex;
+    align-items: center;
+}
+
+.cell{
+    width: 50%;
+}
